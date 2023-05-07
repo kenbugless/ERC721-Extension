@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most adorable and sensitive pup.",
+    "image" : "ipfs://Qmf7ZHtxQL1Vk3dC6k4vnsmBcy9wkv52NbiXFMe9ZyuVWt/4.png",
+    "name" : "DangDangYi4"
+}
